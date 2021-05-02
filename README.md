@@ -1,8 +1,8 @@
-# Python Scripts Repository
+# Word Comparer
 
 ## Description
 
-This repository contains a set of useful scripts made using python for common small tasks you would normally use google for.
+Small task word comparer made using Python 3. Built with no packages
 
 ## Authors
 - LokotamaTheMastermind -> [visit profile](https://www.github.com/LokotamaTheMastermind)
